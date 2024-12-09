@@ -1,0 +1,3 @@
+# @fehujs/config
+
+Configuration parser.
